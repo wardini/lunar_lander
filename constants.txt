@@ -1,0 +1,11 @@
+
+{
+
+'WIDTH' : 400,
+'HEIGHT' : 800,
+
+'VERSION' : 0.6,
+'COMPATABLE_VERSIONS' : [],
+
+'GAME_PREFIX' : 'll_',
+}
